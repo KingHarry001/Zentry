@@ -7,6 +7,7 @@ import Navbar from "./componenets/Navbar";
 import Story from "./componenets/Story";
 
 const App = () => {
+  
   return (
     <main className="relative min-h-screen w-full overflow-x-hidden">
       <Navbar />
